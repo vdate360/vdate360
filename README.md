@@ -1,6 +1,6 @@
 ## 🦄 Hi there, I'm Vladimir N. Sergeev!
 
-<p><em>I'm Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
+<p><em>I'm Front-End Developer <img src="https://i.giphy.com/WUlplcMpOCEmTGBtBW.webp" width="30"></em>
 </p>
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fvofronte&label=гости&icon=github&color=%23E7E7E7)
@@ -9,9 +9,9 @@
 Badge](https://cdn.jsdelivr.net/gh/vofronte/icons@latest/linkedin_badge.svg)](https://www.linkedin.com/in/vofronte/)
 
 
-<img align="right" alt="GIF" width="367" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+<img align="right" alt="GIF" width="367" src="https://i.giphy.com/L8K62iTDkzGX6.webp" />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://i.giphy.com/VgCDAzcKvsR6OM0uWg.webp" width="50"> A little more about me...
 
 - 🔭 Experienced Frontend Developer specializing in the Vue.js ecosystem
 - 👯 Always happy to connect with other developers
