@@ -38,7 +38,7 @@ Badge](https://cdn.jsdelivr.net/gh/vofronte/icons@latest/linkedin_badge.svg)](ht
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C985%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C990%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,7 +46,7 @@ Badge](https://cdn.jsdelivr.net/gh/vofronte/icons@latest/linkedin_badge.svg)](ht
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 29 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -107,5 +107,5 @@ Pug                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/06/2025 01:17:49 UTC
+ Last Updated on 22/06/2025 01:26:33 UTC
 <!--END_SECTION:waka-->
