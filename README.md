@@ -1,4 +1,4 @@
-## 🦄 Hi there, I'm Vladimir N. Sergeev!
+## 🦄 Hi there, I'm Vladimir!
 
 <p><em>I'm Front-End Developer <img src="https://i.giphy.com/WUlplcMpOCEmTGBtBW.webp" width="30"></em>
 </p>
