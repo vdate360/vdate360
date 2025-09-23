@@ -38,8 +38,6 @@ Badge](https://cdn.jsdelivr.net/gh/vofronte/icons@latest/linkedin_badge.svg)](ht
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C452%20hrs%2025%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I Mostly Code in TypeScript** 
@@ -55,5 +53,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2025 01:24:40 UTC
+ Last Updated on 23/09/2025 01:20:17 UTC
 <!--END_SECTION:waka-->
